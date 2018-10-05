@@ -3,7 +3,7 @@ using namespace std;
 int qw(int a,int b)
 {
  if (a>b) {
-	return 0;}odd
+	return 0;}
  else {cout<< a <<endl;
 	a=a+2;
 	qw(a,b);
